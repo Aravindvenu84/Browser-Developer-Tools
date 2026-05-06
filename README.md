@@ -63,10 +63,10 @@ Displays:
 
 ---
 
-### 🖼️ Add Image (Elements Panel)
+### 🖼️ Elements Panel
 
-[ <img width="1857" height="762" alt="Screenshot from 2026-05-06 12-43-38" src="https://github.com/user-attachments/assets/91fb3dd5-e4ee-4bf6-85b3-d0a12d8e114f" />
-]
+ <img width="1857" height="762" alt="Screenshot from 2026-05-06 12-43-38" src="https://github.com/user-attachments/assets/91fb3dd5-e4ee-4bf6-85b3-d0a12d8e114f" />
+
 
 ---
 
@@ -103,9 +103,10 @@ Uncaught TypeError: undefined is not a function
 
 ---
 
-### 🖼️ Add Image (Console Panel)
+### 🖼️ Console Panel
 
-[ Insert Screenshot of Console Panel Here ]
+<img width="907" height="788" alt="Screenshot from 2026-05-06 12-49-46" src="https://github.com/user-attachments/assets/5b35e9ac-703a-4377-8d38-ce7876d6824d" />
+
 
 ---
 
@@ -129,9 +130,10 @@ The **Network panel** shows all requests made by the webpage.
 
 ---
 
-### 🖼️ Add Image (Network Panel)
+### 🖼️ Network Panel
 
-[ Insert Screenshot of Network Panel Here ]
+<img width="907" height="788" alt="image" src="https://github.com/user-attachments/assets/9a4d9849-d6d1-4ba6-b42b-350a9f851458" />
+
 
 ---
 
@@ -155,9 +157,10 @@ The **Sources panel** is used for debugging JavaScript.
 
 ---
 
-### 🖼️ Add Image (Sources Panel)
+### 🖼️ Sources Panel
 
-[ Insert Screenshot of Sources Panel Here ]
+<img width="907" height="788" alt="Screenshot from 2026-05-06 12-52-01" src="https://github.com/user-attachments/assets/dd9b72b6-6989-4e1d-8dba-a6d781acdeb2" />
+
 
 ---
 
