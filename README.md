@@ -1,4 +1,4 @@
-````markdown
+
 # 🧰 Browser Developer Tools (DevTools)
 
 Browser Developer Tools (DevTools) are built-in tools in modern browsers like Chrome, Firefox, and Edge. They allow developers to **inspect, debug, and analyze web applications** directly in the browser.
