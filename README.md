@@ -189,9 +189,10 @@ sessionid=abc123
 
 ---
 
-### 🖼️ Add Image (Application Panel)
+### 🖼️ Application Panel
 
-[ Insert Screenshot of Application Panel Here ]
+<img width="907" height="788" alt="Screenshot from 2026-05-06 12-54-23" src="https://github.com/user-attachments/assets/39e20638-1a90-4124-922b-181b38b95a90" />
+
 
 ---
 
@@ -212,9 +213,10 @@ The **Performance panel** helps analyze page performance.
 
 ---
 
-### 🖼️ Add Image (Performance Panel)
+### 🖼️ Performance Panel
 
-[ Insert Screenshot of Performance Panel Here ]
+<img width="907" height="788" alt="Screenshot from 2026-05-06 12-55-16" src="https://github.com/user-attachments/assets/1f0dc2bf-92d1-423f-90e3-ece95c4aebc9" />
+
 
 ---
 
